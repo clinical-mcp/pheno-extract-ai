@@ -36,8 +36,6 @@ Install Python dependencies with:
 pip install -r requirements.txt
 ```
 
-See `REQUIREMENTS_AUDIT.md` for the dependency audit.
-
 ## Notes
 
 - The clinical notes included here are synthetic study inputs. No protected health information is intended to be included.
