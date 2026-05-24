@@ -1,0 +1,100 @@
+Genetics Clinic Note
+New Patient Visit
+Date of Visit: 10/22/2023
+Patient: John Frankenstein
+DOB: 11/21/2008
+Primary Care Physician: Murray, Bill
+Referring Physician: Johnson, Frank
+Reason for visit: NPV
+Diagnosis: Thin body habitus, long fingers.
+
+CC: No qualifying data available.
+HPI:
+John is a 17-year-old male referred for evaluation due to features concerning for a
+connective tissue disorder. He has a thin body habitus, progressive scoliosis, he is
+nearsighted. No prior genetic testing has been performed. He denies syncope, dyspnea,
+or history of pneumothorax. He had normal development meeting all his milestones. He
+is currently in high school at East Valley High, doing well with a 3.9 GPA. He was
+referred to genetics because his pediatrician noticed he had abnormally long fingers.
+REVIEW OF SYSTEMS:
+General: No fevers, weight loss, or night sweats. Reports rapid interval growth.
+HEENT: Denies headaches or hearing problems. Reports worsening myopia. No noted
+lens dislocation symptoms (e.g., sudden vision shifts or halos).
+Cardiovascular: Intermittent exertional chest discomfort. Denies palpitations, syncope,
+or known murmurs.
+Respiratory: No cough, wheezing, or shortness of breath. No history of pneumothorax.
+Gastrointestinal: No abdominal pain, nausea, vomiting, constipation, or diarrhea.
+Musculoskeletal: Back pain related to scoliosis. Occasional joint pain. No joint swelling.
+Neurologic: No weakness, numbness, migraines, or dizziness.
+Skin: No unusual stretch marks, rashes, or abnormal scarring.
+Endocrine: No heat/cold intolerance, polydipsia, or polyuria.
+Hematologic: No easy bruising or bleeding.
+Psychiatric: No anxiety, depression, or mood concerns reported.
+
+PAST MEDICAL HISTORY:
+John was naturally conceived. There were no complications in pregnancy. Mother
+reports receiving routine prenatal care. John was born at 39 weeks via vaginal delivery .
+He was healthy at birth and went home with his mother two days after delivery. He has
+otherwise been healthy. He has a history of clavicular fracture from an ATV accident
+when he was 8 years old.
+
+Problem List:
+No qualifying data available.
+PAST SURGICAL HISTORY:
+None
+ALLERGIES:
+No Known Allergies
+MEDICATIONS:
+Medication List
+Active Medications
+No Active Medications Found
+Medications Inactivated in the Last 72 Hours
+No medications found.
+FAMILY HISTORY:
+A complete 3 generation pedigree was taken during the encounter which was significant
+for a maternal grandfather with heart attack in his 40’s, and a maternal aunt with breast
+cancer at age 38.
+
+PHYSICAL EXAM:
+Height 6’, weight 135
+General: Awake and alert, appropriately interactive for age, NAD
+HEENT: Deep set eyes, Normocephalic, atraumatic, normal hair distribution, flat nasal
+bridge, thin upper lip, high arched palate.
+Neck: Supple without lymphadenopathy, no cystic hygroma
+Cardio: RRR, holosystolic murmur
+Lungs: CTA b/l, good air exchange, no retractions, no nasal flaring
+Abdomen: Soft, non-tender, non-distended with active bowel sounds, no masses or
+hepatosplenomegaly
+Musc/Skel: Mild/moderate scoliosis, arachnodactyly of hand and feet.
+Neuro: CN grossly intact, normal strength/tone, normal reflexes, normal gait for age
+Skin: No rash, jaundice, or unusual birthmarks.
+LABS:
+Hemoglobin: 11.2 g/dL (13.5–17.5 g/dL) (
+Hematocrit: 34.5% (41–50%)
+Red Blood Cell: 4.1 x 10⁶/µL (4.5–5.9 x 10⁶/µL),
+Mean Corpuscular Volume: 84 fL (80–100 fL)
+Mean Corpuscular Hemoglobin: 27 pg (27–34 pg)
+Red Cell Distribution Width: 15.2% (11.5–14.5%)
+White Blood Cell: 10.2 x 10³/µL
+Neutrophils: 70% (40–70% )
+Lymphocytes: 20% (20–40%)
+
+Monocytes: 8% (2–8%)
+Eosinophils: 1% (1–4%)
+Basophils: 1% (0–1%)
+Genetic Tests:
+None
+Imaging:
+None
+Reportedly has X-rays done by pediatricians office showing scoliosis but we were
+unable to obtain these records.
+ASSESSMENT:
+17-year-old male with multiple systemic features suggestive of Marfan syndrome,
+including tall stature with increased arm-span-to-height ratio, positive wrist/thumb signs,
+scoliosis, pectus deformity, myopia, and joint hypermobility. No aortic measurements
+available today. Family history raises concern for possible autosomal dominant
+connective tissue disorder. Presentation most consistent with suspected Marfan
+syndrome, but other conditions such as Loeys-Dietz syndrome, MASS phenotype, or
+congenital contractural arachnodactyly remain in the differential.
+PLAN:
+-Connective tissue disorders panel to Mega Genetic Labs

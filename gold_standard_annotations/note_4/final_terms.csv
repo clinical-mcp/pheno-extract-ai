@@ -1,0 +1,53 @@
+Normalized_ID,Official_Term_Name,HPO ID,Term Name,Support,evidence
+HP:0001646,Abnormal aortic valve morphology,,,direct,Narrowed LVOT with hypoplastic mitral and aortic valves
+HP:0001999,Abnormal facial shape,,,direct,Microcephaly and mild dysmorphic features
+HP:0001627,Abnormal heart morphology,,,direct,prenatally diagnosed congenital heart disease
+HP:0011039,Abnormal helix morphology,HP:0011039,Abnormal helix morphology,direct,ears with mildly simplified helices
+HP:0001633,Abnormal mitral valve morphology,,,direct,Narrowed LVOT with hypoplastic mitral and aortic valves
+HP:0000062,Ambiguous genitalia,HP:0000062,Ambiguous genitalia,direct,Ambiguous genitalia (borderline clitoromegaly with mild posterior fusion)
+HP:0000061,"Ambiguous genitalia, female",HP:0000062,Ambiguous genitalia,direct,1-day-old symmetric SGA female infant with: ... Ambiguous genitalia (borderline clitoromegaly with mild posterior fusion)
+HP:0003561,Birth length less than 3rd percentile,HP:0004322,Short stature,inferred,length 43 cm (<1st %ile)
+HP:0200128,Biventricular hypertrophy,HP:0200128,Biventricular hypertrophy,direct,Mild biventricular hypertrophy and cardiomegaly
+HP:0001640,Cardiomegaly,HP:0001640,Cardiomegaly,direct,Mild biventricular hypertrophy and cardiomegaly
+HP:0008665,Clitoral hypertrophy,HP:0000062,Ambiguous genitalia,direct,Borderline clitoromegaly;
+HP:0001680,Coarctation of aorta,HP:0011611,Interrupted aortic arch,direct,
+HP:0004325,Decreased body weight,HP:0001511,Intrauterine growth retardation,inferred,"Weight 2.15 kg (<1st %ile, Z ≈ -3.8)"
+HP:0031956,Elevated circulating aspartate aminotransferase concentration,HP:0002910,Elevated circulating hepatic transaminase concentration,direct,"LFTs: AST 68 IU/L (mildly ↑), ALT 42 IU/L, Total bili 6.8 mg/dL (physiologic), Direct bili 0.4 mg/dL"
+HP:0002910,Elevated circulating hepatic transaminase concentration,HP:0002910,Elevated circulating hepatic transaminase concentration,inferred,"LFTs: AST 68 IU/L (mildly ↑), ALT 42 IU/L"
+HP:0000063,Fused labia minora,HP:0000063,Fused labia minora,direct,
+HP:0030148,Heart murmur,HP:0030148,Heart murmur,direct,grade 2/6 systolic murmur best at LSE
+HP:0012304,Hypoplastic aortic arch,HP:0012304,Hypoplastic aortic arch,direct,Hypoplastic aortic arch (likely interrupted type A or severe coarctation)
+HP:0000059,Hypoplastic labia majora,HP:0000059,Hypoplastic labia majora,direct,"Clitoris prominent (approx. 7 mm), mild posterior labial fusion, labia majora hypoplastic; normal vaginal opening, no palpable gonads"
+HP:0004383,Hypoplastic left heart,HP:0004383,Hypoplastic left heart,direct,Complex congenital heart disease (hypoplastic left heart spectrum)
+HP:0032239,Increased circulating band cell count,HP:0001974,Increased total leukocyte count,inferred,"WBC 18.2 (mild leukocytosis, left shift)"
+HP:0002151,Increased circulating lactate concentration,HP:0003128,Lactic acidosis,direct,"Lactate 2.9 mmol/L (mildly elevated, down-trending from 5.8 at birth)"
+HP:0001974,Increased total leukocyte count,HP:0001974,Increased total leukocyte count,direct,"CBC: WBC 18.2 (mild leukocytosis, left shift)"
+HP:0011611,Interrupted aortic arch,HP:0011611,Interrupted aortic arch,direct,
+HP:0011612,Interrupted aortic arch type A,HP:0011611,Interrupted aortic arch,direct,
+HP:0001511,Intrauterine growth retardation,HP:0001511,Intrauterine growth retardation,direct,Baby Girl R. is a 1-day-old former 38-week infant born via induced vaginal delivery for severe fetal growth restriction and prenatally diagnosed congenital heart disease.
+HP:0033588,Labial adhesion,HP:0000063,Fused labia minora,direct,mild posterior labial fusion
+HP:0000066,Labial hypoplasia,HP:0000059,Hypoplastic labia majora,direct,labia majora hypoplastic
+HP:0003128,Lactic acidosis,HP:0003128,Lactic acidosis,inferred,
+HP:0001712,Left ventricular hypertrophy,HP:0200128,Biventricular hypertrophy,inferred,Mild biventricular hypertrophy and cardiomegaly
+HP:0032092,Left ventricular outflow tract obstruction,HP:0032092,Left ventricular outflow tract obstruction,direct,Narrowed LVOT with hypoplastic mitral and aortic valves
+HP:0030917,Low APGAR score,HP:0030917,Low APGAR score,inferred,Apgars 6¹ and 8⁵
+HP:0001942,Metabolic acidosis,HP:0003128,Lactic acidosis,direct,"HCO₃ 19 (mild metabolic acidosis, resolving)"
+HP:0000252,Microcephaly,HP:0000252,Microcephaly,direct,HEENT: Microcephaly;
+HP:0000347,Micrognathia,HP:0000347,Micrognathia,direct,"HEENT: OFC markedly below 1st %ile, sloping forehead, mild micrognathia, normally-set ears with slightly simplified helices, palate intact"
+HP:0002643,Neonatal respiratory distress,HP:0002643,Neonatal respiratory distress,inferred,
+HP:0011682,Perimembranous ventricular septal defect,HP:0001629,Ventricular septal defect,direct,Moderate perimembranous VSD
+HP:0011451,Primary microcephaly,HP:0000252,Microcephaly,direct,HEENT: Microcephaly
+HP:0003508,Proportionate short stature,HP:0004322,Short stature,inferred,"Weight 2.15 kg (<1st %ile, Z ≈ -3.8), Length 43 cm (<1st %ile)"
+HP:0002098,Respiratory distress,HP:0002643,Neonatal respiratory distress,inferred,
+HP:0001667,Right ventricular hypertrophy,HP:0200128,Biventricular hypertrophy,inferred,Mild biventricular hypertrophy and cardiomegaly
+HP:0008846,Severe intrauterine growth retardation,HP:0001511,Intrauterine growth retardation,direct,induced vaginal delivery for severe fetal growth restriction
+HP:0004322,Short stature,HP:0004322,Short stature,inferred,"Weight 2.15 kg (<1st %ile, Z ≈ -3.8), Length 43 cm (<1st %ile), HC 30.2 cm (<1st %ile, Z ≈ -3.2)"
+HP:0020206,Simple ear,HP:0011039,Abnormal helix morphology,inferred,
+HP:0000340,Sloping forehead,HP:0000340,Sloping forehead,direct,"OFC markedly below 1st %ile, sloping forehead, mild micrognathia, normally-set ears with slightly simplified helices, palate intact"
+HP:0001518,Small for gestational age,HP:0001511,Intrauterine growth retardation,direct,"Evaluation of symmetric small-for-gestational-age (SGA) infant with microcephaly, ambiguous genital findings, and complex congenital heart disease."
+HP:0006266,Small placenta,HP:0006266,Small placenta,direct,Placenta and cord described as small.
+HP:0031664,Systolic heart murmur,HP:0030148,Heart murmur,direct,"CV: Regular rhythm, normal S1/S2, grade 2/6 systolic murmur best at LSE"
+HP:0001714,Ventricular hypertrophy,HP:0200128,Biventricular hypertrophy,direct,Mild biventricular hypertrophy and cardiomegaly
+HP:0001629,Ventricular septal defect,HP:0001629,Ventricular septal defect,direct,Moderate perimembranous VSD
+HP:0006610,Wide intermamillary distance,HP:0006610,Wide intermamillary distance,direct,
+HP:0001510,Growth delay,HP:0001511,Intrauterine growth retardation,direct,

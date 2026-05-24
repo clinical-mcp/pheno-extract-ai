@@ -1,0 +1,42 @@
+Normalized_ID,Official_Term_Name,HPO ID,Term Name,Support,evidence
+HP:0000158,Macroglossia,HP:0010808,Protruding tongue,inferred,
+HP:0000218,High palate,HP:0000218,High palate,direct,"HEENT: Brachycephaly, upslanting palpebral fissures, epicanthal folds, small ears, flat nasal bridge, protruding tongue, high arched palate."
+HP:0000248,Brachycephaly,HP:0000248,Brachycephaly,direct,"HEENT: Brachycephaly, upslanting palpebral fissures, epicanthal folds, small ears, flat nasal bridge, protruding tongue, high arched palate."
+HP:0000286,Epicanthus,HP:0000286,Epicanthus,direct,"HEENT: Brachycephaly, upslanting palpebral fissures, epicanthal folds, small ears, flat nasal bridge, protruding tongue, high arched palate."
+HP:0000470,Short neck,HP:0000470,Short neck,direct,"Neck: Short neck, no webbing or lymphadenopathy, no cystic hygroma."
+HP:0000582,Upslanted palpebral fissure,HP:0000582,Upslanted palpebral fissure,direct,"HEENT: Brachycephaly, upslanting palpebral fissures, epicanthal folds, small ears, flat nasal bridge, protruding tongue, high arched palate."
+HP:0000750,Delayed speech and language development,HP:0000750,Delayed speech and language development,direct,She smiles responsively and babbles but has no clear words.
+HP:0000821,Hypothyroidism,HP:0000821,Hypothyroidism,inferred,Thyroid Function Tests:  TSH: 12.5 mIU/L (1.7–9.1 mIU/L) – Elevated  Free T4: 0.6 ng/dL (0.8–2.0 ng/dL) – Low
+HP:0000832,Primary hypothyroidism,HP:0000821,Hypothyroidism,inferred,Thyroid Function Tests:  TSH: 12.5 mIU/L (1.7–9.1 mIU/L) – Elevated  Free T4: 0.6 ng/dL (0.8–2.0 ng/dL) – Low
+HP:0000954,Single transverse palmar crease,HP:0000954,Single transverse palmar crease,direct,"Musculoskeletal: Generalized hypotonia, no joint hypermobility, single palmar crease bilaterally, clinodactyly of fifth fingers."
+HP:0000977,Soft skin,HP:0000977,Soft skin,direct,"Skin: No rash, jaundice, or café-au-lait spots. Soft, velvety skin texture."
+HP:0001252,Hypotonia,HP:0001252,Hypotonia,direct,"Parents report Emily has hypotonia, noted since birth"
+HP:0001263,Global developmental delay,HP:0001263,Global developmental delay,direct,"Diagnosis: Down syndrome (trisomy 21), confirmed by karyotype; hypotonia, developmental delay"
+HP:0001270,Motor delay,HP:0001270,Motor delay,direct,Problem List: - Down syndrome (trisomy 21) - Generalized hypotonia - Developmental delay (motor and speech)
+HP:0001290,Generalized hypotonia,HP:0001252,Hypotonia,direct,Musculoskeletal: Generalized hypotonia.
+HP:0001319,Neonatal hypotonia,HP:0001252,Hypotonia,direct,"Parents report Emily has hypotonia, noted since birth"
+HP:0001508,Failure to thrive,HP:0001508,Failure to thrive,inferred,
+HP:0001518,Small for gestational age,HP:0001508,Failure to thrive,inferred,
+HP:0001531,Failure to thrive in infancy,HP:0001508,Failure to thrive,inferred,
+HP:0001742,Nasal congestion,HP:0001742,Nasal congestion,direct,Parents report mild nasal congestion.
+HP:0002098,Respiratory distress,HP:0002643,Neonatal respiratory distress,direct,She spent 5 days in the NICU for mild respiratory distress and feeding difficulties.
+HP:0002194,Delayed gross motor development,HP:0001270,Motor delay,direct,Neurologic: No seizures or abnormal movements. Delayed motor milestones (not sitting independently).
+HP:0002474,Expressive language delay,HP:0000750,Delayed speech and language development,direct,She smiles responsively and babbles but has no clear words.
+HP:0002643,Neonatal respiratory distress,HP:0002643,Neonatal respiratory distress,direct,She spent 5 days in the NICU for mild respiratory distress and feeding difficulties.
+HP:0002705,"High, narrow palate",HP:0000218,High palate,direct,"HEENT: Brachycephaly, upslanting palpebral fissures, epicanthal folds, small ears, flat nasal bridge, protruding tongue, high arched palate."
+HP:0002925,Elevated circulating thyroid-stimulating hormone concentration,HP:0000821,Hypothyroidism,direct,TSH: 12.5 mIU/L (1.7–9.1 mIU/L) – Elevated
+HP:0004209,Clinodactyly of the 5th finger,HP:0030084,Clinodactyly,direct,"Musculoskeletal: Generalized hypotonia, no joint hypermobility, single palmar crease bilaterally, clinodactyly of fifth fingers."
+HP:0005280,Depressed nasal bridge,HP:0005280,Depressed nasal bridge,direct,"HEENT: Brachycephaly, upslanting palpebral fissures, epicanthal folds, small ears, flat nasal bridge, protruding tongue, high arched palate."
+HP:0007598,Bilateral single transverse palmar creases,HP:0000954,Single transverse palmar crease,direct,"Musculoskeletal: Generalized hypotonia, no joint hypermobility, single palmar crease bilaterally, clinodactyly of fifth fingers."
+HP:0008551,Microtia,HP:0008551,Microtia,dirrect,
+HP:0008771,Aplasia/Hypoplasia of the ear,HP:0008551,Microtia,inferred,small ears
+HP:0008772,Aplasia/Hypoplasia of the external ear,HP:0008551,Microtia,inferred,small ears
+HP:0008872,Feeding difficulties in infancy,HP:0008872,Feeding difficulties in infancy,direct,She spent 5 days in the NICU for mild respiratory distress and feeding difficulties.
+HP:0010808,Protruding tongue,HP:0010808,Protruding tongue,direct,"HEENT: Brachycephaly, upslanting palpebral fissures, epicanthal folds, small ears, flat nasal bridge, protruding tongue, high arched palate."
+HP:0010880,Increased nuchal translucency,HP:0010880,Increased nuchal translucency,direct,"Prenatal ultrasound showed increased nuchal translucency, prompting amniocentesis, which confirmed trisomy 21."
+HP:0011968,Feeding difficulties,HP:0008872,Feeding difficulties in infancy,direct,She spent 5 days in the NICU for mild respiratory distress and feeding difficulties.
+HP:0025336,Delayed ability to sit,HP:0001270,Motor delay,direct,"Parents report Emily has hypotonia, noted since birth, and is not yet sitting independently."
+HP:0030084,Clinodactyly,HP:0030084,Clinodactyly,direct,"Musculoskeletal: Generalized hypotonia, no joint hypermobility, single palmar crease bilaterally, clinodactyly of fifth fingers."
+HP:0031507,Decreased circulating T4 concentration,HP:0000821,Hypothyroidism,inferred,Free T4: 0.6 ng/dL (0.8–2.0 ng/dL) – Low
+HP:0031508,Abnormal circulating thyroid hormone concentration,HP:0000821,Hypothyroidism,inferred,TSH: 12.5 mIU/L (1.7–9.1 mIU/L) – Elevated  Free T4: 0.6 ng/dL (0.8–2.0 ng/dL) – Low
+HP:0400005,Short ear,HP:0008551,Microtia,direct,small ears

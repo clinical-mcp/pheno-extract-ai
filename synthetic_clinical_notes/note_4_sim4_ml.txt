@@ -1,0 +1,90 @@
+**Genetics Consult Note**  
+**Date of Service:** 03/14/2026  
+**Patient:** Baby Girl R.  
+**DOB:** 03/13/2026 (1 day old)  
+**MRN:** []  
+**Provider:** Alex Rivera, MD, PhD  
+
+**Reason for Consultation**  
+Evaluation of symmetric small-for-gestational-age (SGA) infant with microcephaly, ambiguous genital findings, and complex congenital heart disease.
+
+**History of Present Illness**  
+Baby Girl R. is a 1-day-old former 38-week infant born via induced vaginal delivery for severe fetal growth restriction and prenatally diagnosed congenital heart disease. Birth weight 2.18 kg (<1st %ile), length 43 cm (<1st %ile), HC 30.2 cm (<1st %ile). Required brief CPAP at delivery; Apgars 6¹ and 8⁵. Maternal GBS status unknown, received inadequate prophylaxis; blood culture sent. Transferred to NICU for cardiac management and ongoing evaluation of dysmorphic features and growth restriction.  
+Prenatal course notable for low-risk cell-free DNA screening; no diagnostic amniocentesis performed. Placenta and cord described as small.
+
+**Review of Systems** (10-system, pertinent positives and negatives)  
+- Constitutional: Symmetric SGA, no fever  
+- HEENT: Microcephaly; no overt craniofacial dysmorphism; ears with mildly simplified helices; no cleft palate  
+- Cardiovascular: Known complex CHD (see below)  
+- Respiratory: Brief CPAP requirement at birth; now on room air, no current distress  
+- Gastrointestinal: Tolerating enteral feeds, normal bowel sounds, no vomiting  
+- Genitourinary: Borderline clitoromegaly; normal anus  
+- Musculoskeletal: Proportionate limbs, no contractures or skeletal anomalies noted  
+- Neurologic: Appropriate alertness, normal neonatal reflexes, normal tone  
+- Integumentary: No icterus, no rashes, no café-au-lait spots or other pigmented lesions  
+- Hematologic/Lymphatic: No bruising or petechiae  
+
+**Past Medical/Social/Family History**  
+Social: Lives with parents and four older siblings; non-consanguineous parents  
+Family History (expanded):  
+- Maternal side: Grandfather and two maternal uncles with X-linked congenital stationary night blindness (confirmed in grandfather and one uncle; second uncle affected by exam but not tested)  
+- Maternal 2nd-degree cousin: Repaired cleft lip/palate  
+- Paternal grandmother: Two early miscarriages of unknown etiology  
+- Paternal great-uncle: Congenital sensorineural hearing loss  
+- Paternal aunt: History of childhood stroke at age 9 followed by viral encephalitis with complete neurologic recovery  
+Otherwise negative for intellectual disability, autism spectrum disorder, known syndromic conditions, or multiple congenital anomalies in first- or second-degree relatives.
+
+**Physical Examination**  
+Vitals: T 37.1 °C, HR 142, RR 36, BP 68/38 (R arm), SpO₂ 98% RA  
+Weight 2.15 kg (<1st %ile, Z ≈ -3.8), Length 43 cm (<1st %ile), HC 30.2 cm (<1st %ile, Z ≈ -3.2)  
+General: Small, symmetric, active, no acute distress  
+HEENT: OFC markedly below 1st %ile, sloping forehead, mild micrognathia, normally-set ears with slightly simplified helices, palate intact  
+Chest: Normal contour, widely spaced nipples (borderline)  
+CV: Regular rhythm, normal S1/S2, grade 2/6 systolic murmur best at LSE, strong peripheral pulses  
+Lungs: Clear bilaterally, easy work of breathing  
+Abdomen: Soft, non-distended, no hepatosplenomegaly  
+Genitalia: Clitoris prominent (approx. 7 mm), mild posterior labial fusion, labia majora hypoplastic; normal vaginal opening, no palpable gonads  
+Extremities: No brachydactyly, clinodactyly, or joint restrictions  
+Skin: No hemangiomas, no ash-leaf spots  
+Neuro: Alert, symmetric movements, normal Moro and suck  
+
+**Pertinent Results**  
+**Echocardiogram (03/13/2026):**  
+- Hypoplastic aortic arch (likely interrupted type A or severe coarctation)  
+- Moderate perimembranous VSD  
+- Narrowed LVOT with hypoplastic mitral and aortic valves  
+- Mild biventricular hypertrophy and cardiomegaly  
+- Normal situs and venous return  
+
+**Head ultrasound (03/14/2026):** No intraventricular hemorrhage, normal midline structures.
+
+**Laboratory Results (03/13–03/14/2026):**  
+- CBC: WBC 18.2 (mild leukocytosis, left shift), Hgb 17.8 g/dL, Plt 182 × 10³/µL (mildly low-normal)  
+- CRP <0.3 mg/dL (negative)  
+- BMP: Na 138, K 4.9, Cl 105, HCO₃ 19 (mild metabolic acidosis, resolving), BUN 18, Cr 0.68, Glucose 72 mg/dL  
+- LFTs: AST 68 IU/L (mildly ↑), ALT 42 IU/L, Total bili 6.8 mg/dL (physiologic), Direct bili 0.4 mg/dL  
+- Newborn state screen (collected 03/13): Pending  
+- 17-hydroxyprogesterone (urgent, sent 03/14): Pending  
+- TSH 4.2 mIU/L (normal), Free T4 1.8 ng/dL (normal)  
+- Lactate 2.9 mmol/L (mildly elevated, down-trending from 5.8 at birth)  
+- Blood gas (capillary, 03/14): pH 7.36, pCO₂ 42, Base excess -3  
+
+**Assessment**  
+1-day-old symmetric SGA female infant with:  
+- Microcephaly and mild dysmorphic features  
+- Ambiguous genitalia (borderline clitoromegaly with mild posterior fusion)  
+- Complex congenital heart disease (hypoplastic left heart spectrum)  
+- Mild persistent metabolic acidosis and transient lactate elevation (likely related to perinatal stress)  
+Differential includes chromosomal disorders, single-gene conditions (e.g., Smith-Lemli-Opitz, Noonan/RASopathy spectrum, Cornelia de Lange, 3M syndrome, Kabuki, or other overgrowth/SGA syndromes), and teratogenic exposures.
+
+**Plan**  
+- Endocrinology consultation initiated today – will include 17-OHP (result pending), karyotype + microarray (urgent)  
+- Rapid whole-genome sequencing (rWGS) to be ordered early next week; will discuss preferences for secondary (incidental) findings with parents once initial endocrine and karyotype results return  
+- Continue NICU cardiology management  
+- Follow-up genetics clinic visit scheduled 1–2 weeks post-discharge or sooner if rWGS results return  
+
+**Time Spent**  
+60 minutes of critical care time spent in evaluation, family counseling, chart review, and documentation on 03/14/2026 (exclusive of procedures).
+
+Alex Rivera, MD, PhD  
+Clinical Genetics

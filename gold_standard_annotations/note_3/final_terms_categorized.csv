@@ -1,0 +1,22 @@
+HPO ID,Term Name,Official_Term_Name,Inferred,Active,HPI,History,Exam,Supporting,A/P
+HP:0010808,Protruding tongue,Macroglossia; Protruding tongue,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+HP:0000218,High palate,"High palate; High, narrow palate",FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+HP:0000248,Brachycephaly,Brachycephaly,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE
+HP:0000286,Epicanthus,Epicanthus,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+HP:0000470,Short neck,Short neck,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+HP:0000582,Upslanted palpebral fissure,Upslanted palpebral fissure,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE
+HP:0000750,Delayed speech and language development,Delayed speech and language development; Expressive language delay,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE
+HP:0000821,Hypothyroidism,Abnormal circulating thyroid hormone concentration; Decreased circulating T4 concentration; Elevated circulating thyroid-stimulating hormone concentration; Hypothyroidism; Primary hypothyroidism,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+HP:0000954,Single transverse palmar crease,Bilateral single transverse palmar creases; Single transverse palmar crease,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE
+HP:0000977,Soft skin,Soft skin,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+HP:0001252,Hypotonia,Generalized hypotonia; Hypotonia; Neonatal hypotonia,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE
+HP:0001263,Global developmental delay,Global developmental delay,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE
+HP:0001270,Motor delay,Delayed ability to sit; Delayed gross motor development; Motor delay,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE
+HP:0001508,Failure to thrive,Failure to thrive; Failure to thrive in infancy; Small for gestational age,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+HP:0001742,Nasal congestion,Nasal congestion,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+HP:0002643,Neonatal respiratory distress,Neonatal respiratory distress; Respiratory distress,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE
+HP:0030084,Clinodactyly,Clinodactyly; Clinodactyly of the 5th finger,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+HP:0005280,Depressed nasal bridge,Depressed nasal bridge,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+HP:0008551,Microtia,Aplasia/Hypoplasia of the ear; Aplasia/Hypoplasia of the external ear; Microtia; Short ear,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+HP:0008872,Feeding difficulties in infancy,Feeding difficulties; Feeding difficulties in infancy,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE
+HP:0010880,Increased nuchal translucency,Increased nuchal translucency,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE

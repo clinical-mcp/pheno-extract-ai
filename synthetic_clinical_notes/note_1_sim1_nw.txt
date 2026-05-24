@@ -1,0 +1,136 @@
+Sim Genetics Clinic Note 1
+New Patient Visit
+Date of Visit: 10/22/2023
+Patient: JANE DOE
+DOB: 10/21/2018
+Primary Care Physician: Doesph, John
+Referring Physician: Sinatra, Frank
+Reason for visit: NPV
+Diagnosis: Scoliosis, ventriculomegaly, Chiari I malformation
+
+CC: No qualifying data available.
+HPI:
+Jane is presenting to the General Genetics Clinic for initial evaluation. She is
+accompanied at today&#39;s visit by her Mother. Information for this visit was gathered from
+the accompanied family member and the medical record.
+Jane is a 5 Years old Female with a history of developmental delay, Chiari I
+malformation, ventriculomegaly, syringomyelia, and scoliosis. She presents to the
+Genetics Clinic for further evaluation and consideration of genetic testing to identify a
+potential underlying genetic etiology for her history of concerns. She has global
+developmental delay, did not walk until age two, currently she can sign for her needs but
+cannot speak in sentences. Her vocabulary is very limited saying only a few words such
+as “ma” for mom and no. She is followed by neurosurgery and neurology for her Chiari I
+malformation, ventriculomegaly, and her syringomyelia and was last seen in July where
+she had a decompression surgery and a duraplasty. She is followed by Orthopedics for
+her scoliosis. Currently they are watching it and will consider surgery if it progresses.
+Has a history of severe congenital scoliosis (thoracolumbar scoliosis). Mild genu valgum
+on the L. Bilateral coxa valga vs. femoral aversion.
+REVIEW OF SYSTEMS:
+Const: No acute concerns.
+Psych: Denies abnormal behaviors. Concerns for emotional immaturity.
+Neuro: Denies seizures and focal weakness; Developmental delay, speech delay; does
+not go up/down stairs, does not run/jump. Chiari I malformation. Ventriculomegaly.
+Syringomyelia.
+Eyes: No vision concerns or ophthalmological diagnoses reported. Wear glasses -
+astigmatism.
+ENT: Denies hearing changes, difficulty swallowing, and snoring.
+Orofacial: No concerns. Born with two teeth.
+NECK: No structural neck abnormalities.
+Cardiac: No history of congenital heart defect, tachycardia, palpitations, syncope,
+murmur or hypertension reported.
+
+Resp: Denies difficulty breathing, cough, and wheezing. 2m old admitted couldn&#39;t
+breathe.
+GI: Denies abd pain, diarrhea, and vomiting, blood in stool. Does have chronic
+constipation.
+GU: No history of urinary tract infections, hydronephrosis, kidney abnormalities, or
+hernias reported.
+Musc/Skele: Clumsiness with walking. &quot;Smaller L foot&quot;. Seems to indicate she has pain
+in her feet.
+Heme/Lymph: No history of issues with blood clotting, recurrent nose bleeds or
+abnormal hematological labs reported. She does have a history of iron-deficient anemia.
+Endo: No history of blood glucose or growth hormone abnormalities, thyroid conditions
+or abnormal endocrine labs.
+Skin: There was no history of hyper- or hypopigmentation, recurrent rashes, easy
+scaring or bruising, vascular malformations, tumors or abnormal hair. She has multiple
+moles.
+PAST MEDICAL HISTORY:
+Prenatal/BHx:
+Jane was naturally conceived and mother reports receiving routine prenatal care
+starting in the first trimester. The pregnancy was complicated by maternal drug use.
+Mother reports all other routine prenatal screening was performed and unremarkable.
+Jane was born at 36 weeks via induced vaginal delivery . This was followed by a regular
+nursery stay and discharge home with mother.
+Birth weight: 4lbs
+Birth length: 17in
+Problem List:
+No qualifying data available.
+PAST SURGICAL HISTORY:
+Duraplasty
+Decompression surgery
+ALLERGIES:
+No Known Allergies
+MEDICATIONS:
+Medication List
+Active Medications
+No Active Medications Found
+Medications Inactivated in the Last 72 Hours
+No medications found.
+FAMILY HISTORY:
+A complete 3 generation pedigree was taken during the encounter which was significant
+
+for a sibling with learning disability, and a maternal aunt with intellectual disability and
+coronary heart disease.
+
+PHYSICAL EXAM:
+General: Awake and alert, appropriately interactive for age, NAD
+HEENT: Normocephalic, atraumatic, normal hair distribution, flat nasal bridge, thin
+upper lip, high arched palate.
+Neck: Supple without lymphadenopathy, no cystic hygroma
+Cardio: RRR, normal S1/S2 without murmur
+Lungs: CTA b/l, good air exchange, no retractions, no nasal flaring
+Abdomen: Soft, non-tender, non-distended with active bowel sounds, no masses or
+hepatosplenomegaly
+Musc/Skel: Significant scoliosis, leg length discrepancy of 1.5”
+Neuro: CN grossly intact, normal strength/tone, normal reflexes, normal gait for age
+Skin: No rash, jaundice, or unusual birthmarks, moles present on back and right cheek.
+Psych: Non-verbal but interactive.
+LABS:
+General:
+None
+Genetic Tests:
+None
+Imaging:
+Spine x-ray (9/21/23):
+1. 48 degrees right convex curvature of the thoracic spine, 49 degrees left convex
+curvature of the lumbar spine as described above.
+2. Pelvic tilt the right hip is approximately 9 mm taller than the left.
+3. The right femoral head is laterally uncovered from the right acetabulum.
+Brain MRI (12/10/23):
+1. Chiari I formation. Holocord syrinx reported separately.
+2. Ventriculomegaly. I doubt the ventriculomegaly is explained by the Chiari
+malformation. In addition, there is dysmorphism involving the central skull base and
+internal auditory canals as above.
+3. Given the constellation of these findings, consider a genetics consultation
+Cervical Spine MRI (1/25/24):
+1. Chiari I malformation with nearly holocord syringohydromyelia.
+2. No significant vertebral anomalies in the cervical region
+Lumbar Spine MRI (1/25/24):
+1. Holocord Syringohydromyelia tapers and terminates at the T11-T12 disc level.
+
+2. S-shaped scoliosis of the thoracolumbar spine. Normal position of the conus. No MR
+features of cord tethering or intraspinal mass lesion. No significant vertebral anomalies.
+Thoracic Spine MRI (11/13/24):
+1. Holocord Syringohydromyelia extending to the T11-T12 disc level.
+2. Scoliotic spinal curvature, with rightward spinal curvature centered at the midthoracic
+spine and leftward spinal curvature centered at the mid lumbar spine.
+3. No significant vertebral anomalies identified
+ASSESSMENT:
+Jane Doe is a 5 Years Female with Scoliosis, ventriculomegaly, Chiari I malformation
+and GDD of unknown etiology. She does not present with clinical findings that are
+diagnostic of any particular genetic disorder, therefore to further evaluate her for a
+genetic cause of her condition we will perform whole genome sequencing.
+
+PLAN:
+-Follow up with genetics pending results of testing.
+- Baylor WGS - proceed with FAP depending on est. OOP

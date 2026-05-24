@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Local outputs/raw data not tracked here
+dryad_upload/
+combined_analysis_results/
+*_raw_log.csv
+*_cost_log.csv
+all_runs_raw_combined.csv
+hp.json
+*.log
+*.cache
+.Rhistory
+
+# Manuscripts/local files
+*.docx
+.omx/

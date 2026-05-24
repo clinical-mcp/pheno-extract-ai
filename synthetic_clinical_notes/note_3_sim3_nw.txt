@@ -1,0 +1,162 @@
+Genetics Clinic Note
+New Patient Visit
+
+Date of Visit: 11/30/2025
+Patient: Emily Thompson
+DOB: 11/15/2024
+Age: 1 year
+
+Primary Care Physician: Dr. Sarah Bennett
+Referring Physician: Dr. Lisa Carter
+Reason for Visit: New patient visit for evaluation of Down syndrome
+Diagnosis: Down syndrome (trisomy 21), confirmed by karyotype; hypotonia,
+developmental delay
+CC: Parental concern regarding developmental milestones and genetic implications of
+Down syndrome.
+HPI:
+Emily is a 1-year-old female with a confirmed diagnosis of Down syndrome (trisomy 21)
+via postnatal karyotype (47,XX,+21). She was referred to the genetics clinic for
+comprehensive evaluation and management guidance. Parents report Emily has
+hypotonia, noted since birth, and is not yet sitting independently. She smiles
+responsively and babbles but has no clear words. Feeding is adequate via bottle, with
+occasional slow weight gain noted by pediatrician. No history of seizures, recurrent
+infections, or cardiac symptoms reported. Emily was born at 38 weeks via cesarean
+section due to maternal preeclampsia. Prenatal ultrasound showed increased nuchal
+translucency, prompting amniocentesis, which confirmed trisomy 21. She spent 5 days
+in the NICU for mild respiratory distress and feeding difficulties. She attends early
+intervention therapy (physical and occupational) weekly. Parents are seeking guidance
+on developmental expectations, medical risks, and long-term planning.
+
+REVIEW OF SYSTEMS:
+- General: No fevers, lethargy, or night sweats. Slow but steady weight gain.
+
+- HEENT: No frequent ear infections or hearing concerns. Parents report mild nasal
+congestion. No vision concerns noted.
+- Cardiovascular: No cyanosis, palpitations, or fatigue with feeding. Echocardiogram at
+birth reportedly normal per pediatrician.
+- Respiratory: No chronic cough, wheezing, or shortness of breath. History of mild
+neonatal respiratory distress, resolved.
+- Gastrointestinal: No vomiting, diarrhea, or constipation. Occasional slow feeding.
+- Musculoskeletal: Generalized hypotonia. No joint dislocations or contractures.
+- Neurologic: No seizures or abnormal movements. Delayed motor milestones (not
+sitting independently).
+- Skin: No rashes, jaundice, or unusual birthmarks.
+- Endocrine: No signs of thyroid dysfunction (e.g., lethargy, poor feeding).
+- Hematologic: No easy bruising or bleeding.
+- Psychiatric/Developmental: Socially engaged, smiles responsively. No behavioral
+concerns.
+
+PAST MEDICAL HISTORY:
+Emily was conceived naturally. Prenatal course was notable for increased nuchal
+translucency and confirmed trisomy 21 via amniocentesis. Maternal preeclampsia led to
+delivery at 38 weeks via cesarean section. Birth weight was 2.8 kg (10th percentile).
+She required 5 days in the NICU for mild respiratory distress and feeding support. No
+congenital heart defects were identified on postnatal echocardiogram. She has had no
+hospitalizations since discharge. Immunizations are up to date.
+
+Problem List:
+- Down syndrome (trisomy 21)
+- Generalized hypotonia
+- Developmental delay (motor and speech)
+- History of neonatal respiratory distress, resolved
+
+PAST SURGICAL HISTORY:
+None
+
+ALLERGIES:
+No known allergies
+
+MEDICATIONS:
+- Active Medications: None
+- Medications Inactivated in Last 72 Hours: None
+
+FAMILY HISTORY:
+A complete 3-generation pedigree was taken. No family history of Down syndrome or
+other genetic disorders. Maternal grandmother had type 2 diabetes diagnosed at age
+55. Paternal grandfather had hypertension. No consanguinity reported.
+
+PHYSICAL EXAM:
+- Vitals: Height 74 cm (25th percentile), Weight 8.5 kg (15th percentile), Head
+Circumference 45 cm (50th percentile)
+- General: Alert, socially interactive, no acute distress
+- HEENT: Brachycephaly, upslanting palpebral fissures, epicanthal folds, small ears, flat
+nasal bridge, protruding tongue, high arched palate. No cataracts or lens opacities
+noted.
+- Neck: Short neck, no webbing or lymphadenopathy, no cystic hygroma.
+- Cardiovascular: Regular rate and rhythm, no murmurs, strong peripheral pulses.
+- Lungs: Clear to auscultation bilaterally, no retractions or nasal flaring.
+- Abdomen: Soft, non-tender, non-distended, active bowel sounds, no organomegaly.
+- Musculoskeletal: Generalized hypotonia, no joint hypermobility, single palmar crease
+bilaterally, clinodactyly of fifth fingers.
+
+- Neurologic: Cranial nerves grossly intact, decreased muscle tone, normal reflexes, no
+clonus. Not sitting independently.
+- Skin: No rash, jaundice, or café-au-lait spots. Soft, velvety skin texture.
+
+LABS:
+- Complete Blood Count (CBC):
+- Hemoglobin: 11.8 g/dL (11.0–13.5 g/dL) – Normal
+- Hematocrit: 35.2% (33–39%) – Normal
+- Red Blood Cell: 4.3 x 10⁶/µL (4.0–5.2 x 10⁶/µL) – Normal
+- Mean Corpuscular Volume: 82 fL (74–87 fL) – Normal
+- Mean Corpuscular Hemoglobin: 27 pg (25–29 pg) – Normal
+- Red Cell Distribution Width: 13.5% (12–15%) – Normal
+- White Blood Cell: 8.5 x 10³/µL (6.0–17.0 x 10³/µL) – Normal
+- Neutrophils: 40% (30–50%) – Normal
+- Lymphocytes: 50% (40–60%) – Normal
+- Monocytes: 8% (5–12%) – Normal
+- Eosinophils: 2% (1–6%) – Normal
+- Basophils: 0% (0–1%) – Normal
+- Platelets: 250 x 10³/µL (150–450 x 10³/µL) – Normal
+Thyroid Function Tests:
+ TSH: 12.5 mIU/L (1.7–9.1 mIU/L) – Elevated
+ Free T4: 0.6 ng/dL (0.8–2.0 ng/dL) – Low
+- Genetic Tests: Karyotype (performed postnatally): 47,XX,+21 (trisomy 21), no
+mosaicism
+
+IMAGING:
+- Echocardiogram (postnatal): Normal, no congenital heart defects.
+
+- No recent imaging available. Pediatrician notes normal hip ultrasound at 2 months
+(screening for hip dysplasia).
+
+ASSESSMENT:
+Emily is a 1-year-old female with Down syndrome (trisomy 21), presenting with
+characteristic physical features (brachycephaly, upslanting palpebral fissures, single
+palmar creases, hypotonia) and developmental delay (not sitting independently, no clear
+words). No evidence of congenital heart defects, thyroid dysfunction, or hematologic
+abnormalities at this time, though ongoing monitoring is required due to increased risks.
+Her growth is slightly below average but stable. Early intervention is appropriately in
+place. Differential for developmental delay is limited given confirmed trisomy 21; no
+additional genetic conditions suspected at this time.
+
+PLAN:
+1. Medical Monitoring:
+- Annual thyroid function tests (TSH, Free T4)
+- Schedule pediatric ophthalmology evaluation by age 18 months to screen for
+cataracts, strabismus, or refractive errors.
+- Audiology evaluation by age 2 to screen for hearing loss
+- Monitor CBC annually for risk of transient myeloproliferative disorder or leukemia (
+
+2. Developmental Support:
+- Continue early intervention (physical, occupational, and speech therapy) to address
+hypotonia and developmental delays.
+- Provide parents with resources for Down Syndrome Association support groups and
+educational materials.
+
+3. Genetic Counseling:
+- Discussed recurrence risk: ~1% for non-inherited trisomy 21 in future pregnancies.
+Offered parental karyotyping to rule out rare translocation carrier status (not indicated
+unless family history suggests).
+
+- Provided counseling on long-term expectations, including intellectual disability (mild
+to moderate in most cases) and potential for independent living with support.
+
+4. Follow-Up:
+- Return to genetics clinic in 1 year (November 2026) or sooner if new concerns arise.
+- Coordinate care with PCP for routine well-child visits and immunizations.
+
+5. Referrals:
+- Pediatric cardiology (by age 2).
+- Pediatric ophthalmology (by 18 months).
+- Audiology (by age 2).

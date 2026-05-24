@@ -1,0 +1,28 @@
+HPO ID,Term Name,Official_Term_Name,Inferred,Active,HPI,History,Exam,Supporting,A/P
+HP:0000218,High palate,"High palate; High, narrow palate",FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+HP:0001288,Gait disturbance,Clumsiness; Difficulty climbing stairs; Gait disturbance; Incoordination; Unsteady gait,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+HP:0002693,Abnormal skull base morphology,Abnormal skull base morphology,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE
+HP:0011384,Abnormality of the internal auditory canal,Abnormality of the internal auditory canal,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE
+HP:0000750,Delayed speech and language development,Absent speech; Delayed speech and language development; Expressive language delay; Language impairment; Poor speech; Severe expressive language delay,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE
+HP:0001385,Hip dysplasia,Acetabular dysplasia; Hip dysplasia; Hip subluxation; Increased femoral anteversion,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE
+HP:0001903,Anemia,Anemia; Iron deficiency anemia,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+HP:0002308,Chiari malformation,Chiari malformation; Chiari type I malformation,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE
+HP:0000483,Astigmatism,Astigmatism,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+HP:0002673,Coxa valga,Bilateral coxa valga; Coxa valga,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+HP:0002019,Constipation,Chronic constipation; Constipation,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+HP:0002194,Delayed gross motor development,Delayed ability to walk; Delayed gross motor development; Motor delay,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
+HP:0005280,Depressed nasal bridge,Depressed nasal bridge,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+HP:0002094,Dyspnea,Dyspnea; Episodic respiratory distress; Respiratory distress,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+HP:0100559,Lower limb asymmetry,Foot asymmetry; Lower limb asymmetry; Short foot,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE
+HP:0025238,Foot pain,Foot pain; Lower limb pain,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+HP:0002857,Genu valgum,Genu valgum,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+HP:0001263,Global developmental delay,Global developmental delay,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE
+HP:0001518,Small for gestational age,Intrauterine growth retardation; Short stature; Small for gestational age,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+HP:0000995,Melanocytic nevus,Melanocytic nevus; Nevus; Numerous nevi,FALSE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE
+HP:0001622,Premature birth,Moderate to late preterm birth; Premature birth,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+HP:0000695,Natal tooth,Natal tooth,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+HP:0010453,Pelvic bone asymmetry,Pelvic bone asymmetry,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+HP:0002650,Scoliosis,Progressive congenital scoliosis; Scoliosis; Thoracolumbar scoliosis,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE
+HP:0003396,Syringomyelia,Syringomyelia,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE
+HP:0000219,Thin upper lip vermilion,Thin upper lip vermilion,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+HP:0002119,Ventriculomegaly,Ventriculomegaly,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE

@@ -1,0 +1,9 @@
+# Runtime dependencies imported by the staged Python scripts.
+# Standard-library imports are intentionally omitted.
+anthropic
+httpx
+numpy
+openai
+pandas
+scipy
+xai-sdk

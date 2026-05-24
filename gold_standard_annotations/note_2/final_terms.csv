@@ -1,0 +1,33 @@
+Normalized_ID,Official_Term_Name,HPO ID,Term Name,Support,evidence
+HP:0000766,Abnormal sternum morphology,HP:0000766,Abnormal sternum morphology,direct,17-year-old male with multiple systemic features suggestive of Marfan syndrome
+HP:0000765,Abnormal thorax morphology,HP:0000766,Abnormal sternum morphology,direct,17-year-old male with multiple systemic features suggestive of Marfan syndrome
+HP:0001903,Anemia,HP:0001903,Anemia,inferred,Hemoglobin: 11.2 g/dL (13.5–17.5 g/dL)
+HP:0011273,Anisocytosis,HP:0011273,Anisocytosis,inferred,Red Cell Distribution Width: 15.2% (11.5–14.5%)
+HP:0001166,Arachnodactyly,HP:0001166,Arachnodactyly,direct,Musc/Skel: Mild/moderate scoliosis
+HP:0002829,Arthralgia,HP:0002829,Arthralgia,direct,Occasional joint pain.
+HP:0001533,Slender build,HP:0001533,Slender build,direct,Diagnosis: Thin body habitus
+HP:0003418,Back pain,HP:0003418,Back pain,direct,Back pain related to scoliosis.
+HP:0100749,Chest pain,HP:0100749,Chest pain,direct,Intermittent exertional chest discomfort.
+HP:0045082,Decreased body mass index,HP:0045082,Decreased body mass index,inferred,
+HP:0004325,Decreased body weight,HP:0045082,Decreased body mass index,inferred,
+HP:0000490,Deeply set eye,HP:0000490,Deeply set eye,direct,HEENT: Deep set eyes
+HP:0005280,Depressed nasal bridge,HP:0005280,Depressed nasal bridge,direct,Deep set eyes
+HP:0001519,Disproportionate tall stature,HP:0000098,Tall stature,direct,17-year-old male with multiple systemic features suggestive of Marfan syndrome
+HP:0005281,Hypoplastic nasal bridge,HP:0005280,Depressed nasal bridge,direct,HEENT: Deep set eyes
+HP:0002761,Generalized joint hypermobility,HP:0002761,Generalized joint hypermobility,direct,17-year-old male with multiple systemic features suggestive of Marfan syndrome
+HP:0001388,obsolete Joint laxity,HP:0002761,Generalized joint hypermobility,direct,17-year-old male with multiple systemic features suggestive of Marfan syndrome
+HP:0030148,Heart murmur,HP:0031667,Holosystolic murmur,direct,Cardio: RRR
+HP:0000218,High palate,HP:0000218,High palate,direct,HEENT: Deep set eyes
+HP:0002705,High,HP:0000218,High palate,,
+HP:0031667,Holosystolic murmur,HP:0031667,Holosystolic murmur,direct,Cardio: RRR
+HP:0012771,Increased arm span,HP:0012771,Increased arm span,direct,tall stature with increased arm-span-to-height ratio
+HP:0005692,obsolete Joint hyperflexibility,HP:0002761,Generalized joint hypermobility,direct,myopia
+HP:0100807,Long fingers,HP:0001166,Arachnodactyly,direct,Diagnosis: Thin body habitus
+HP:0000545,Myopia,HP:0000545,Myopia,direct,Reports worsening myopia.
+HP:0001897,Normocytic anemia,HP:0001903,Anemia,inferred,Hemoglobin: 11.2 g/dL (13.5–17.5 g/dL) ... Mean Corpuscular Volume: 84 fL (80–100 fL)
+HP:0000767,Pectus excavatum,HP:0000766,Abnormal sternum morphology,inferred,
+HP:0002650,Scoliosis,HP:0002650,Scoliosis,direct,He has a thin body habitus
+HP:0031664,Systolic heart murmur,HP:0031667,Holosystolic murmur,direct,Cardio: RRR
+HP:0000098,Tall stature,HP:0000098,Tall stature,direct,including tall stature with increased arm-span-to-height ratio
+HP:0000233,Thin vermilion border,HP:0000219,Thin upper lip vermilion,direct,HEENT: Deep set eyes
+HP:6001274,Thumb sign,HP:6001274,Thumb sign,direct,positive wrist/thumb signs

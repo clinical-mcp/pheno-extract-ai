@@ -1,0 +1,21 @@
+HPO ID,Term Name,Official_Term_Name,Inferred,Active,HPI,History,Exam,Supporting,A/P
+HP:0000766,Abnormal sternum morphology,Abnormal sternum morphology; Abnormal thorax morphology; Pectus excavatum,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE
+HP:0001903,Anemia,Anemia; Normocytic anemia,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE
+HP:0011273,Anisocytosis,Anisocytosis,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE
+HP:0001166,Arachnodactyly,Arachnodactyly; Long fingers,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE
+HP:0002829,Arthralgia,Arthralgia,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+HP:0001533,Slender build,Slender build,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE
+HP:0003418,Back pain,Back pain,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+HP:0100749,Chest pain,Chest pain,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+HP:0045082,Decreased body mass index,Decreased body mass index; Decreased body weight,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE
+HP:0000490,Deeply set eye,Deeply set eye,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+HP:0005280,Depressed nasal bridge,Depressed nasal bridge; Hypoplastic nasal bridge,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+HP:0000098,Tall stature,Disproportionate tall stature; Tall stature,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE
+HP:0002761,Generalized joint hypermobility,Generalized joint hypermobility; obsolete Joint hyperflexibility; obsolete Joint laxity,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE
+HP:0031667,Holosystolic murmur,Heart murmur; Holosystolic murmur; Systolic heart murmur,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+HP:0000218,High palate,High palate,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+HP:0012771,Increased arm span,Increased arm span,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE
+HP:0000545,Myopia,Myopia,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE
+HP:0002650,Scoliosis,Scoliosis,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE
+HP:0000219,Thin upper lip vermilion,Thin vermilion border,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+HP:6001274,Thumb sign,Thumb sign,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE

@@ -1,0 +1,59 @@
+Normalized_ID,Official_Term_Name,HPO ID,Term Name,Support,evidence
+HP:0000218,High palate,HP:0000218,High palate,direct,
+HP:0001288,Gait disturbance,HP:0001288,Gait disturbance,direct,
+HP:0002693,Abnormal skull base morphology,HP:0002693,Abnormal skull base morphology,imaging,"In addition, there is dysmorphism involving the central skull base and internal auditory canals as above."
+HP:0011384,Abnormality of the internal auditory canal,HP:0011384,Abnormality of the internal auditory canal,imaging,"In addition, there is dysmorphism involving the central skull base and internal auditory canals as above."
+HP:0001344,Absent speech,HP:0000750,Delayed speech and language development,direct,
+HP:0008807,Acetabular dysplasia,HP:0001385,Hip dysplasia,inferred,The right femoral head is laterally uncovered from the right acetabulum.
+HP:0001903,Anemia,HP:0001903,Anemia,direct,She does have a history of iron-deficient anemia.
+HP:0002308,Chiari malformation,HP:0002308,Chiari malformation,direct,Chiari I malformation
+HP:0007099,Chiari type I malformation,HP:0002308,Chiari malformation,direct,Chiari I malformation.
+HP:0000483,Astigmatism,HP:0000483,Astigmatism,direct,Eyes: No vision concerns or ophthalmological diagnoses reported. Wear glasses - astigmatism.
+HP:0010665,Bilateral coxa valga,HP:0002673,Coxa valga,direct,Bilateral coxa valga vs. femoral aversion.
+HP:0012450,Chronic constipation,HP:0002019,Constipation,direct,"GI: Denies abd pain, diarrhea, and vomiting, blood in stool. Does have chronic constipation."
+HP:0002312,Clumsiness,HP:0001288,Gait disturbance,direct,"Musc/Skele: Clumsiness with walking. ""Smaller L foot""."
+HP:0002019,Constipation,HP:0002019,Constipation,direct,Does have chronic constipation.
+HP:0002673,Coxa valga,HP:0002673,Coxa valga,direct,
+HP:0031936,Delayed ability to walk,HP:0002194,Delayed gross motor development,direct,"She has global developmental delay, did not walk until age two,"
+HP:0002194,Delayed gross motor development,HP:0002194,Delayed gross motor development,direct,"She has global developmental delay, did not walk until age two, currently she can sign for her needs but cannot speak in sentences."
+HP:0001270,Motor delay,HP:0002194,Delayed gross motor development,direct,"She has global developmental delay, did not walk until age two,"
+HP:0000750,Delayed speech and language development,HP:0000750,Delayed speech and language development,direct,"Developmental delay, speech delay; does not go up/down stairs, does not run/jump."
+HP:0005280,Depressed nasal bridge,HP:0005280,Depressed nasal bridge,direct,"HEENT: Normocephalic, atraumatic, normal hair distribution, flat nasal bridge, thin upper lip, high arched palate."
+HP:0003551,Difficulty climbing stairs,HP:0001288,Gait disturbance,direct,does not go up/down stairs
+HP:0002094,Dyspnea,HP:0002094,Dyspnea,History,
+HP:0004885,Episodic respiratory distress,HP:0002094,Dyspnea,History,2m old admitted couldn&#39;t breathe.
+HP:0002474,Expressive language delay,HP:0000750,Delayed speech and language development,inferred,currently she can sign for her needs but cannot speak in sentences. Her vocabulary is very limited saying only a few words such as “ma” for mom and no.
+HP:0010507,Foot asymmetry,HP:0100559,Lower limb asymmetry,direct,"""Smaller L foot""."
+HP:0025238,Foot pain,HP:0025238,Foot pain,inferred,
+HP:0002317,Unsteady gait,HP:0001288,Gait disturbance,inferred,
+HP:0002857,Genu valgum,HP:0002857,Genu valgum,direct,Has a history of severe congenital scoliosis (thoracolumbar scoliosis). Mild genu valgum on the L.
+HP:0001263,Global developmental delay,HP:0001263,Global developmental delay,direct,"She has global developmental delay, did not walk until age two, currently she can sign for her needs but cannot speak in sentences."
+HP:0002705,"High, narrow palate",HP:0000218,High palate,direct,
+HP:0001385,Hip dysplasia,HP:0001385,Hip dysplasia,inferred,"Spine x-ray (9/21/23): 1. 48 degrees right convex curvature of the thoracic spine, 49 degrees left convex curvature of the lumbar spine as described above. 2. Pelvic tilt the right hip is approximately 9 mm taller than the left. 3. The right femoral head is laterally uncovered from the right acetabulum."
+HP:0030043,Hip subluxation,HP:0001385,Hip dysplasia,inferred,The right femoral head is laterally uncovered from the right acetabulum.
+HP:0002311,Incoordination,HP:0001288,Gait disturbance,direct,
+HP:0012427,Increased femoral anteversion,HP:0001385,Hip dysplasia,inferred,
+HP:0001511,Intrauterine growth retardation,HP:0001518,Small for gestational age,inferred,
+HP:0001518,Small for gestational age,HP:0001518,Small for gestational age,inferred,
+HP:0001891,Iron deficiency anemia,HP:0001903,Anemia,direct,She does have a history of iron-deficient anemia.
+HP:0002463,Language impairment,HP:0000750,Delayed speech and language development,direct,"Neuro: Denies seizures and focal weakness; Developmental delay, speech delay;"
+HP:0100559,Lower limb asymmetry,HP:0100559,Lower limb asymmetry,direct,"Significant scoliosis, leg length discrepancy of 1.5”"
+HP:0012514,Lower limb pain,HP:0025238,Foot pain,direct,"Musc/Skele: Clumsiness with walking. ""Smaller L foot"". Seems to indicate she has pain in her feet."
+HP:0000995,Melanocytic nevus,HP:0000995,Melanocytic nevus,direct,moles present on back and right cheek.
+HP:0025664,Moderate to late preterm birth,HP:0001622,Premature birth,direct,Jane was born at 36 weeks via induced vaginal delivery .
+HP:0000695,Natal tooth,HP:0000695,Natal tooth,direct,Born with two teeth.
+HP:0003764,Nevus,HP:0000995,Melanocytic nevus,direct,She has multiple moles.
+HP:0001054,Numerous nevi,HP:0000995,Melanocytic nevus,direct,
+HP:0010453,Pelvic bone asymmetry,HP:0010453,Pelvic bone asymmetry,inferred,Pelvic tilt the right hip is approximately 9 mm taller than the left.
+HP:0002465,Poor speech,HP:0000750,Delayed speech and language development,direct,"Neuro: Denies seizures and focal weakness; Developmental delay, speech delay;"
+HP:0001622,Premature birth,HP:0001622,Premature birth,direct,Jane was born at 36 weeks via induced vaginal delivery .
+HP:0008458,Progressive congenital scoliosis,HP:0002650,Scoliosis,inferred,
+HP:0002098,Respiratory distress,HP:0002094,Dyspnea,direct,2m old admitted couldn&#39;t breathe.
+HP:0002650,Scoliosis,HP:0002650,Scoliosis,direct,"Diagnosis: Scoliosis, ventriculomegaly, Chiari I malformation"
+HP:0006863,Severe expressive language delay,HP:0000750,Delayed speech and language development,direct,cannot speak in sentences. Her vocabulary is very limited saying only a few words such as “ma” for mom and no.
+HP:0001773,Short foot,HP:0100559,Lower limb asymmetry,direct,"""Smaller L foot""."
+HP:0003396,Syringomyelia,HP:0003396,Syringomyelia,direct,"Jane is a 5 Years old Female with a history of developmental delay, Chiari I malformation, ventriculomegaly, syringomyelia, and scoliosis."
+HP:0000219,Thin upper lip vermilion,HP:0000219,Thin upper lip vermilion,direct,thin upper lip
+HP:0002944,Thoracolumbar scoliosis,HP:0002650,Scoliosis,direct,Has a history of severe congenital scoliosis (thoracolumbar scoliosis).
+HP:0002119,Ventriculomegaly,HP:0002119,Ventriculomegaly,direct,"Diagnosis: Scoliosis, ventriculomegaly, Chiari I malformation"
+HP:0004322,Short stature,HP:0001518,Small for gestational age,inferred,

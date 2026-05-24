@@ -1,0 +1,29 @@
+HPO ID,Term Name,Official_Term_Name,Inferred,Active,HPI,History,Exam,Supporting,A/P
+,Abnormal aortic valve morphology,Abnormal aortic valve morphology,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE
+,Abnormal facial shape,Abnormal facial shape,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE
+,Abnormal heart morphology,Abnormal heart morphology,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE
+HP:0011039,Abnormal helix morphology,Abnormal helix morphology; Simple ear,FALSE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE
+,Abnormal mitral valve morphology,Abnormal mitral valve morphology,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE
+HP:0000062,Ambiguous genitalia,"Ambiguous genitalia; Ambiguous genitalia, female; Clitoral hypertrophy",FALSE,TRUE,FALSE,TRUE,TRUE,FALSE,TRUE
+HP:0004322,Short stature,Birth length less than 3rd percentile; Proportionate short stature; Short stature,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE
+HP:0200128,Biventricular hypertrophy,Biventricular hypertrophy; Left ventricular hypertrophy; Right ventricular hypertrophy; Ventricular hypertrophy,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE
+HP:0001640,Cardiomegaly,Cardiomegaly,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE
+HP:0011611,Interrupted aortic arch,Coarctation of aorta; Interrupted aortic arch; Interrupted aortic arch type A,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE
+HP:0001511,Intrauterine growth retardation,Decreased body weight; Growth delay; Intrauterine growth retardation; Severe intrauterine growth retardation; Small for gestational age,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE
+HP:0002910,Elevated circulating hepatic transaminase concentration,Elevated circulating aspartate aminotransferase concentration; Elevated circulating hepatic transaminase concentration,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE
+HP:0000063,Fused labia minora,Fused labia minora; Labial adhesion,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE
+HP:0030148,Heart murmur,Heart murmur; Systolic heart murmur,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+HP:0012304,Hypoplastic aortic arch,Hypoplastic aortic arch,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE
+HP:0000059,Hypoplastic labia majora,Hypoplastic labia majora; Labial hypoplasia,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+HP:0004383,Hypoplastic left heart,Hypoplastic left heart,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE
+HP:0001974,Increased total leukocyte count,Increased circulating band cell count; Increased total leukocyte count,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE
+HP:0003128,Lactic acidosis,Increased circulating lactate concentration; Lactic acidosis; Metabolic acidosis,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE
+HP:0032092,Left ventricular outflow tract obstruction,Left ventricular outflow tract obstruction,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE
+HP:0030917,Low APGAR score,Low APGAR score,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE
+HP:0000252,Microcephaly,Microcephaly; Primary microcephaly,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE
+HP:0000347,Micrognathia,Micrognathia,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+HP:0002643,Neonatal respiratory distress,Neonatal respiratory distress; Respiratory distress,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE
+HP:0001629,Ventricular septal defect,Perimembranous ventricular septal defect; Ventricular septal defect,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE
+HP:0000340,Sloping forehead,Sloping forehead,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+HP:0006266,Small placenta,Small placenta,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE
+HP:0006610,Wide intermamillary distance,Wide intermamillary distance,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
